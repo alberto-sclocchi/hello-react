@@ -97,7 +97,7 @@ body{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  column-gap: 30px;
+  column-gap: 70px;
 }
 
 .info-box{
@@ -108,7 +108,7 @@ body{
 }
 
 .info-box img{
-  width: 180px;
+  width: 160px;
 }
 
 .info-box h3{
